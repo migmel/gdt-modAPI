@@ -6,6 +6,6 @@
 		if (!Checks.checkUniqueness(event, 'id', DecisionNotifications.modNotifications))
 			return;
 
-		DecisionNotifications.modNotifications.push(event);
+
 	}
 })();
